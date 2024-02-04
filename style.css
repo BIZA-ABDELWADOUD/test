@@ -1,8 +1,14 @@
 * {
     padding: 30px;
     margin: 30px;
+    box-sizing: border-box;
 }
 
 h4 {
     color: #678fff;
+}
+
+
+h6 {
+    color: #ffffff;
 }
